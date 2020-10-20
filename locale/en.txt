@@ -1,0 +1,15 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = 2749 Polk Street #7
+
+## Media
+
+### Title
+panorama_4D22913B_4716_B63B_41D1_ADE7B9A6999F.label = Bedroom
+panorama_4D22C72D_4716_DBDC_41C0_9B26730DEB63.label = Entrance & Hallway
+panorama_4D22CBF6_4716_EA4C_41B6_2540C16C2A2E.label = Kitchen & Dining Room
+panorama_4D22E1B8_4716_F6C4_41C3_01B75E4D535A.label = Living Room
+panorama_4D2DF6E5_4716_DA4C_41CC_045BC070CE8B.label = Bathroom
